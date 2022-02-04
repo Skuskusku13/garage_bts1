@@ -1,0 +1,41 @@
+
+/* body{
+    background-image: url("../images/background.png"); 
+     background-color: #ABD9E8; 
+} */
+
+
+.table, .table-dark{
+    width:900px;    
+}
+
+
+.trh:hover{
+    color: red;
+}
+
+.boutonP{
+    border-radius: 13px;
+    width: 150px;
+    background-color: #214769;
+    color: #f1f1f1;
+    box-shadow: 10px 5px 5px #13212e;
+}
+
+.garage_{
+    display: block;
+    margin: 40px auto;
+    padding: 15px;
+    width: 800px;
+    box-shadow: 15px 10px 10px 15px #13212e;
+    border-radius: 30px;
+}
+
+footer{
+    width: 100%;
+}
+
+.footer_{
+    display: flex;
+    justify-content: space-evenly;
+}
